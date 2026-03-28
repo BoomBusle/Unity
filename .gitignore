@@ -51,3 +51,6 @@ Thumbs.db
 # VS Code
 .vscode/
 .vsconfig
+
+# Editor scene builder scripts (auto-generators, not needed in repo)
+**/Scripts/Editor/
